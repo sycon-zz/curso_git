@@ -6,4 +6,14 @@
  * Time: 12:18 AM
  */
 
-echo phpinfo();
+$a = 1;
+$b = 2;
+if(a == b){
+   echo phpinfo();
+}else
+{
+    echo "1 no es igual a 1";
+}
+
+
+
