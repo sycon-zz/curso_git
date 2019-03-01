@@ -7,12 +7,17 @@
  */
 
 $a = 1;
-$b = 1;
+$b = 2;
+
 if(a == b){
    echo phpinfo();
 }else
 {
     echo "1 no es igual a 1";
+}
+
+while($a = $b){
+   $c = $b;
 }
 
 
